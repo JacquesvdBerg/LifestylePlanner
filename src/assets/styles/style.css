@@ -1,0 +1,39 @@
+:root {
+    /* COLORS */
+  --primary-bg-color: #141414;
+  --secondary-bg-color: #2c2a2a;
+  --primary-text-color: #fdcf50;
+  --header-bg-color: #a94c00;
+  --sidebar-bg-color: #ff920c;
+  --content-bg-color: #ac4f00;
+  --button-bg-color: #fe9325;
+  --button-hover-bg-color: #fdcf50;
+  --gradient-fire: linear-gradient(
+    to right,
+    #d76500,
+    #d76500,
+    #fe9325,
+    #ac4f00
+  );
+
+    /* FONTS */
+    --primary-font: 'Montserrat', sans-serif;
+    --secondary-font: 'Raleway', sans-serif;
+}
+
+.gradient-fire {
+  background: linear-gradient(
+    90deg,
+    var(--color-light-orange),
+    var(--color-medium-orange),
+    var(--color-dark-orange),
+    var(--color-darker-orange)
+  );
+}
+
+/* Basic Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}

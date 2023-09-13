@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Breakfast",
+        "description": "Oatmeal with berries and a side of scrambled eggs."
+    },
+    {
+        "id": 2,
+        "name": "Lunch",
+        "description": "Grilled chicken salad with vinaigrette."
+    },
+    {
+        "id": 3,
+        "name": "Dinner",
+        "description": "Steak with steamed vegetables and quinoa."
+    },
+    {
+        "id": 4,
+        "name": "Snack",
+        "description": "Greek yogurt with honey and almonds."
+    }
+]
